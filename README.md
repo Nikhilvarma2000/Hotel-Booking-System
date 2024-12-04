@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React App with Fake JSON Server
 
 This project is a simple React application that demonstrates how to integrate a fake JSON server for development of Hotel booking app
@@ -94,3 +95,7 @@ my-react-app/
 
 - [JSON Server Documentation](https://github.com/typicode/json-server)
 - [React Documentation](https://reactjs.org/)
+=======
+# Hotel-Booking-System
+A web application for managing hotel bookings, including viewing available rooms, booking reservations, and viewing hotel details like location, pricing, and room availability.
+>>>>>>> 1fbe98fad0532b95a071d742e83ed5e9c7836257
