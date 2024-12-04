@@ -1,0 +1,165 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Ocean View Resort",
+      "location": "California",
+      "rating": 4.5,
+      "pricePerNight": 150,
+      "availableRooms": 10,
+      "imageUrl": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Ocean+View+Resort"
+    },
+    {
+      "id": "2",
+      "name": "Mountain Escape",
+      "location": "Colorado",
+      "rating": 4.8,
+      "pricePerNight": 200,
+      "availableRooms": 5,
+      "imageUrl": "https://via.placeholder.com/150/008000/FFFFFF?text=Mountain+Escape"
+    },
+    {
+      "id": "3",
+      "name": "City Lights Hotel",
+      "location": "New York",
+      "rating": 4.2,
+      "pricePerNight": 180,
+      "availableRooms": 8,
+      "imageUrl": "https://via.placeholder.com/150/FF0000/FFFFFF?text=City+Lights+Hotel"
+    },
+    {
+      "id": "4",
+      "name": "Desert Oasis Inn",
+      "location": "Nevada",
+      "rating": 4.7,
+      "pricePerNight": 130,
+      "availableRooms": 6,
+      "imageUrl": "https://via.placeholder.com/150/FFA500/FFFFFF?text=Desert+Oasis+Inn"
+    },
+    {
+      "id": "5",
+      "name": "Lakeside Retreat",
+      "location": "Michigan",
+      "rating": 4.3,
+      "pricePerNight": 120,
+      "availableRooms": 12,
+      "imageUrl": "https://via.placeholder.com/150/00FFFF/FFFFFF?text=Lakeside+Retreat"
+    },
+    {
+      "id": "6",
+      "name": "Tropical Paradise",
+      "location": "Florida",
+      "rating": 4.9,
+      "pricePerNight": 250,
+      "availableRooms": 4,
+      "imageUrl": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=Tropical+Paradise"
+    },
+    {
+      "id": "7",
+      "name": "Forest Haven",
+      "location": "Oregon",
+      "rating": 4.6,
+      "pricePerNight": 140,
+      "availableRooms": 7,
+      "imageUrl": "https://via.placeholder.com/150/800080/FFFFFF?text=Forest+Haven"
+    },
+    {
+      "id": "8",
+      "name": "Cozy Cabin Lodge",
+      "location": "Vermont",
+      "rating": 4.4,
+      "pricePerNight": 110,
+      "availableRooms": 9,
+      "imageUrl": "https://via.placeholder.com/150/A52A2A/FFFFFF?text=Cozy+Cabin+Lodge"
+    },
+    {
+      "id": "9",
+      "name": "Urban Chic Hotel",
+      "location": "Chicago",
+      "rating": 4.1,
+      "pricePerNight": 190,
+      "availableRooms": 15,
+      "imageUrl": "https://via.placeholder.com/150/808080/FFFFFF?text=Urban+Chic+Hotel"
+    },
+    {
+      "id": "10",
+      "name": "Beachfront Bliss",
+      "location": "Hawaii",
+      "rating": 4.8,
+      "pricePerNight": 300,
+      "availableRooms": 3,
+      "imageUrl": "https://via.placeholder.com/150/87CEEB/FFFFFF?text=Beachfront+Bliss"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1733300305567",
+      "hotelId": "4",
+      "guestName": "T REDDY",
+      "email": "admin@gmail.com",
+      "phone": "9515235212",
+      "checkInDate": "2024-12-05",
+      "checkOutDate": "2024-12-20",
+      "numberOfGuests": 1,
+      "roomType": "standard",
+      "totalAmount": 130,
+      "status": "confirmed"
+    },
+    {
+      "id": "1733300309936",
+      "hotelId": "4",
+      "guestName": "T REDDY",
+      "email": "admin@gmail.com",
+      "phone": "9515235212",
+      "checkInDate": "2024-12-05",
+      "checkOutDate": "2024-12-20",
+      "numberOfGuests": 1,
+      "roomType": "standard",
+      "totalAmount": 130,
+      "status": "confirmed"
+    },
+    {
+      "id": "1733300475332",
+      "hotelId": "4",
+      "guestName": "T REDDY",
+      "email": "admin@gmail.com",
+      "phone": "9515235212",
+      "checkInDate": "2024-12-05",
+      "checkOutDate": "2024-12-19",
+      "numberOfGuests": 1,
+      "roomType": "standard",
+      "totalAmount": 1820,
+      "status": "confirmed",
+      "hotelName": "Desert Oasis Inn"
+    },
+    {
+      "id": 1733315651262,
+      "hotelId": "5",
+      "guestName": "Reddycharla varma",
+      "email": "nikhildhoni143@gmail.com",
+      "phone": "9150299458",
+      "checkInDate": "2024-12-04",
+      "checkOutDate": "2024-12-05",
+      "numberOfGuests": 1,
+      "roomType": "deluxe",
+      "totalAmount": 180,
+      "status": "confirmed",
+      "hotelName": "Lakeside Retreat"
+    },
+    {
+      "id": 1733316345620,
+      "hotelId": "3",
+      "guestName": "Reddycharla varma",
+      "email": "nikhildhoni143@gmail.com",
+      "phone": "9150299458",
+      "checkInDate": "2024-12-04",
+      "checkOutDate": "2024-12-24",
+      "numberOfGuests": 4,
+      "roomType": "suite",
+      "totalAmount": 7200,
+      "status": "confirmed",
+      "hotelName": "City Lights Hotel"
+    }
+  ],
+  "users": []
+}
